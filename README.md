@@ -20,5 +20,5 @@
 > 
 >Toujours dans l'invité de commandes GitBash executer les commandes suivantes:
 >
->`cd tinder-clone`<br>`git submodule init`<br>`git submodule update`
+>`cd tinder-clone-mern`<br>`cd tinder-clone`<br>`git submodule init`<br>`git submodule update`
 
