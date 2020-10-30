@@ -16,9 +16,9 @@
 >
 >`git clone https://github.com/TheoSmond/tinder-clone-mern.git`
 
-> **1. Récupérer le Front-End**
+> **2. Récupérer les sous modules Front-End et Back-End**
 > 
 >Toujours dans l'invité de commandes GitBash executer les commandes suivantes:
 >
->`cd tinder-clone-mern`<br>`cd tinder-clone`<br>`git submodule init`<br>`git submodule update`
+>`cd tinder-clone-mern`<br>`git submodule init`<br>`git submodule update`
 
